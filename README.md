@@ -2,6 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/64544361/139143542-7faa55fb-0b19-4edf-9008-b3b10fc1f57e.png)
 
+![image](https://user-images.githubusercontent.com/64544361/139145208-e188728c-e6ee-445e-8f48-f6cb86450768.png)
+
+
 A Node-Based Conversation Event Creation System Using Unity-GraphView.
 
 ## Features
@@ -48,3 +51,8 @@ public class TalkUISampleScript : MonoBehaviour
 ```
 
 - You can also refer to `TalkUI/Scenes/SampleScene`
+
+## TODO
+
+- Loading and re-editing saved EventData
+- Adjusting the position of newly created nodes
